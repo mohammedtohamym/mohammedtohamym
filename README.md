@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tohamy</h1>
 <h3 align="center">A software engineerr</h3>
 
-<h1 aligh="center">Here to solve problems and get the job done.</h1>
+<h1 align="center">Here to solve problems and get the job done.</h1>
 <!---
 - 👋 Hi
 - 👀 I’m mohammed tohamy
