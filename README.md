@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammed tohamy</h1>
+<h1 align="center">Hi 👋, I'm Tohamy</h1>
 <h3 align="center">A software engineerr</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedtohamym&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedtohamym" /> </p>
