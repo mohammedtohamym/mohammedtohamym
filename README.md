@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tohamy</h1>
-<h3 align="center">A software engineerr</h3>
+<h3 align="center">A software developer</h3>
 
 <h1 align="center">Here to solve problems and get the job done.</h1>
 <!---
